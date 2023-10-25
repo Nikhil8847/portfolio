@@ -1,6 +1,6 @@
 # ⭐ Personal Portfolio Website ⭐
 
-> [Deployed here](https://vaheedshaik.tech/)
+> [Deployed here](https://portfolio-nikhil8847.vercel.app/)
 
 ⭐ Star me on GitHub and do follow ⭐
 
