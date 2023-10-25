@@ -50,7 +50,7 @@ export const links = [
   { text: "About", path: "/about" },
   { text: "Skills", path: "/skills" },
   { text: "Projects", path: "/projects" },
-  { text: "Experience", path: "/experience" }
+  { text: "Experience", path: "/experience" },
 ];
 
 export const interestsData = [
@@ -245,6 +245,13 @@ export const projectsData = [
     image: "Route-Planning",
     link: "https://github.com/Nikhil8847/Route-Planning-Project",
     source: "https://github.com/Nikhil8847/Route-Planning-Project",
+  },
+  {
+    type: "WEB-APP",
+    title: "Result Management App",
+    image: "Result-Management",
+    link: "https://github.com/Nikhil8847/Result-Management-App",
+    source: "https://github.com/Nikhil8847/Result-Management-App",
   },
   {
     type: "WEB-APP",
